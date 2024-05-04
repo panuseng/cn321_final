@@ -40,9 +40,6 @@ export default function LobbyPage() {
 						<span className="text-sm text-gray-500">Player :</span>
 						<div className="flex flex-wrap gap-3">
 							<div className="bg-white border border-purple-700 rounded-md px-3 py-1">
-								<span className="text-xs">RubyToon</span>
-							</div>
-							<div className="bg-white border border-purple-700 rounded-md px-3 py-1">
 								<span className="text-xs">Seng (me)</span>
 							</div>
 						</div>
